@@ -1,4 +1,4 @@
-# Configuración de git
+# Configuración de git :octocat:
 
 Para poder acceder a git usando el protocolo ssh, lo primero que hice fue generar el par clave pública/privada, asociándolo a mi cuenta de correo electrónico en GitHub.
 
