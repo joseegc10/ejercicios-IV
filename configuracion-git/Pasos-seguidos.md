@@ -16,6 +16,10 @@ Agregamos la clave pública a mi cuenta de GitHub
 
 ![agregamos clave pública en mi perfil de github](https://github.com/joseegc10/ejercicios-IV/blob/master/configuracion-git/capturas/5.png)
 
+Comprobación de git remote
+
+![git remote](https://github.com/joseegc10/ejercicios-IV/blob/master/configuracion-git/capturas/6.png)
+
 Por último, configuramos el nombre, email y editor por defecto en git
 
 ![configuración](https://github.com/joseegc10/ejercicios-IV/blob/master/configuracion-git/capturas/4.png)
