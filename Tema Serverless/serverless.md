@@ -26,6 +26,6 @@ Para acceder a Firebase, simplemente accedemos a [la página oficial](https://fi
 
 ## Ejercicio 2. Tomar alguna de las funciones de prueba de Vercel, y hacer despliegues de prueba con el mismo.
 
-Para ello, el repositorio que hemos añadido en el ejercicio anterior debe tener una carpeta api y dentro de esta el archivo con la función, en mi caso date.rb, el cual he obtenido de las funciones de prueba que ofrece Vercel, en el siguiente [enlace](https://vercel.com/docs/serverless-functions/supported-languages#ruby).
+Para ello, el [repositorio](https://github.com/joseegc10/test-vercel) que hemos añadido en el ejercicio anterior debe tener una carpeta api y dentro de esta el archivo con la función, en mi caso date.rb, el cual he obtenido de las funciones de prueba que ofrece Vercel, en el siguiente [enlace](https://vercel.com/docs/serverless-functions/supported-languages#ruby).
 
 Se puede ver [aquí](https://test-vercel-ochre.vercel.app/api/date) el correcto despliegue.
