@@ -10,11 +10,11 @@ Para darnos de alta en Vercel y enlazar un repositorio, seguimos los siguientes 
 
 2. Damos en Sign Up y nos registramos usando GitHub, dandole autorización para acceder a nuestros repos.
 
-![sl1](./img/sl1)
+![sl1](./img/sl1.png)
 
 3. Pulsamos en añadir un repositorio y añadimos la url del repo.
 
-![sl2](./img/sl2)
+![sl2](./img/sl2.png)
 
 4. Por último, si queremos obtener el SDK de Vercel, ponemos en nuestra terminal el siguiente comando:
 
